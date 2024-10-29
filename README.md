@@ -12,7 +12,7 @@ FEM solver for elliptic PDEs based on the hierarchical Poincaré-Steklov (HPS) s
 
 Here are first demos of mesh partitions.
 
-### Hierarchy of conformal triangulations
+### Conformal triangulations
 
 <img src="./demos/demo-hct.png" width="500">
 
